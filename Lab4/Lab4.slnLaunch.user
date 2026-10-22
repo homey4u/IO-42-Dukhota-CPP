@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Server\\Server.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Client1\\Client1.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Client2\\Client2.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Client3\\Client3.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
