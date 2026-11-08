@@ -1,0 +1,3 @@
+﻿  Client2.cpp
+D:\4Курс\С++\Лаб6\Lab6\Client2\Client2.cpp(99,29): warning C4244: '=': conversion from 'LRESULT' to 'DWORD', possible loss of data
+  Client2.vcxproj -> D:\4Курс\С++\Лаб6\Lab6\x64\Debug\Client2.exe
