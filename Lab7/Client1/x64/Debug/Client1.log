@@ -1,0 +1,3 @@
+﻿  Client1.cpp
+D:\4Курс\С++\Лаб7\Lab7\Client1\Client1.cpp(109,13): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Client1.vcxproj -> D:\4Курс\С++\Лаб7\Lab7\x64\Debug\Client1.exe
